@@ -13,6 +13,8 @@ Public versions are available as [Overleaf](https://www.overleaf.com/about) temp
 
 ### Theses
 
+  - [Master's thesis]()
+
 ### Posters
 
   - [Two-column minimal poster]()

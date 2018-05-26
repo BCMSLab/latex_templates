@@ -4,3 +4,6 @@
 [submodule "presentation"]
 	path = presentation
 	url = https://git.overleaf.com/16457161thfmwtfjtqyx
+[submodule "thesis"]
+	path = thesis
+	url = https://git.overleaf.com/16470698hwxqjxqrqrgh
