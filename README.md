@@ -9,19 +9,19 @@ A collection of latex templates.
 
 Each of these templates was created as a project on [Overleaf](https://www.overleaf.com/about). Creating new templates and editing the existing ones requires permission to the original projects or to this repository.  
 
-Public versions are available as [Overleaf](https://www.overleaf.com/about) templates.
+Public versions are available as **templates** or by uploading the **zip** file to [Overleaf](https://www.overleaf.com/about).
 
 ### Theses
 
-  - [Master's thesis]()
+  - Master's thesis: [(Overleaf)]() [(Zip)](https://github.com/BCMSLab/latex_templates/raw/master/thesis.zip)
 
 ### Posters
 
-  - [Two-column minimal poster]()
+  - Two-column minimal poster: [(Overleaf)](https://github.com/BCMSLab/latex_templates/raw/master/poster.zip) [(Zip)](https://github.com/BCMSLab/latex_templates/raw/master/poster.zip)
 
 ### Presentations
 
-  - [Minimal beamer presentation]()
+  - Minimal beamer presentation: [(Overleaf)](https://www.overleaf.com/latex/templates/minimal-beamer-presentation/mhknjbrjvkvs#.WwpKAy-B0i4) [(Zip)](https://github.com/BCMSLab/latex_templates/raw/master/presentation.zip)
 
 ## More
 
