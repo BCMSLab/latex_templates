@@ -17,7 +17,7 @@ Public versions are available as **templates** or by uploading the **zip** file 
 
 ### Posters
 
-  - Two-column minimal poster: [(Overleaf)](https://github.com/BCMSLab/latex_templates/raw/master/poster.zip) [(Zip)](https://github.com/BCMSLab/latex_templates/raw/master/poster.zip)
+  - Two-column minimal poster: [(Overleaf)](https://www.overleaf.com/latex/templates/minimal-beamer-presentation/mhknjbrjvkvs#.Ww4iPS-B0i4) [(Zip)](https://github.com/BCMSLab/latex_templates/raw/master/poster.zip)
 
 ### Presentations
 
