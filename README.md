@@ -13,7 +13,7 @@ Public versions are available as **templates** or by uploading the **zip** file 
 
 ### Theses
 
-  - Master's thesis: [(Overleaf)]() [(Zip)](https://github.com/BCMSLab/latex_templates/raw/master/thesis.zip)
+  - Master's thesis: [(Overleaf)](https://www.overleaf.com/latex/templates/master-of-science-thesis-template-gyeongsang-national-university/bctzpxnbgcfg#.Ww4htS-B0i4) [(Zip)](https://github.com/BCMSLab/latex_templates/raw/master/thesis.zip)
 
 ### Posters
 
